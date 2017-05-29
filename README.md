@@ -4,7 +4,7 @@ https://shaoanlu.wordpress.com/2017/04/22/deep-learning-on-floyd-dogs-vs-cats-re
 
 Kaggle dogs vs cats redux on flyodhub
 
-**res50_bneck_fconv.ipynb and res50_fc_and_incep.ipynb:** ResNet50 as base moedl with different output layers. Result: scored in the top 8% on public LB (with model ensembling in **avg_subm.ipynb**).
+**res50_bneck_fconv.ipynb and res50_fc_and_incep.ipynb:** ResNet50 as base moedl with different output layers. Result: scored in the top 8% on public LB (model ensembling in **avg_subm.ipynb**).
 
 
 

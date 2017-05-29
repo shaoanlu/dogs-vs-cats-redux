@@ -16,4 +16,4 @@ Kaggle dogs vs cats redux on flyodhub
 
 
 
-**opt_experiment.ipynb**: Comparison between optimizers: SGD, Adam Nadam and RMSprop. Result shows that SGD with momentum has better performnace on validation data than adaptive optimizers. [See this blog post for detail.](https://shaoanlu.wordpress.com/2017/05/29/sgd-all-which-one-is-the-best-optimizer-dogs-vs-cats-toy-experiment/)
+**opt_experiment.ipynb**: Comparison between optimizers: SGD, Adam Nadam and RMSprop inspired by [this paper on arxiv](https://arxiv.org/abs/1705.08292). Result shows that SGD with momentum has better performnace on validation data than adaptive optimizers. [See this blog post for detail.](https://shaoanlu.wordpress.com/2017/05/29/sgd-all-which-one-is-the-best-optimizer-dogs-vs-cats-toy-experiment/)

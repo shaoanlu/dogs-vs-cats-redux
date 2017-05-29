@@ -12,7 +12,7 @@ Kaggle dogs vs cats redux on flyodhub
 
 
 
-**knn_image.ipynb:** Averaging test image predictinos using k-Nearest-neighbors.
+**knn_image.ipynb:** Average test image predictions using k-Nearest-neighbors.
 
 
 

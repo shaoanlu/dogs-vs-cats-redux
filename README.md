@@ -8,7 +8,7 @@ Kaggle dogs vs cats redux on flyodhub
 
 
 
-**res50_incepV3_Xcept.ipynb:** ResNet50, inceptionV3 adn Xception as base models with simple fully-connected output layers. Result: scored within top 2% on public LB
+**res50_incepV3_Xcept.ipynb:** ResNet50, inceptionV3 adn Xception as base models with simple fully-connected output layers. Result: scored within top 2% on public LB. (Please notice that file link for dogscats.zip has changed. Try http://files.fast.ai/data/dogscats.zip.)
 
 
 

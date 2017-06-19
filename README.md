@@ -6,7 +6,7 @@ Kaggle dogs vs cats redux on flyodhub
 
 ## Usage
 
-### res50_bneck_fconv.ipynb and res50_fc_and_incep.ipynb<br>
+### res50_bneck_fconv.ipynb & res50_fc_and_incep.ipynb<br>
 ResNet50 as base model with different top layers. <br>
 Result: scored in the top 8% on public LB (ensembling in avg_subm.ipynb).
 

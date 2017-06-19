@@ -7,12 +7,12 @@ Kaggle dogs vs cats redux on flyodhub
 ## Usage
 
 ### res50_bneck_fconv.ipynb and res50_fc_and_incep.ipynb<br>
-ResNet50 as base model with different output layers. <br>
+ResNet50 as base model with different top layers. <br>
 Result: scored in the top 8% on public LB (ensembling in avg_subm.ipynb).
 
 
 ### res50_incepV3_Xcept.ipynb<br>
-ResNet50, inceptionV3 adn Xception as base models with simple fully-connected output layers. <br>
+ResNet50, inceptionV3 adn Xception as base models with simple fully-connected top layers. <br>
 Result: scored within top 2% on public LB. 
 
 

@@ -7,18 +7,17 @@ Kaggle dogs vs cats redux on flyodhub
 ## Usage
 
 ### res50_bneck_fconv.ipynb and res50_fc_and_incep.ipynb<br>
-ResNet50 as base moedl with different output layers. Result: scored in the top 8% on public LB (ensembling in avg_subm.ipynb).
-
+ResNet50 as base model with different output layers. <br>
+Result: scored in the top 8% on public LB (ensembling in avg_subm.ipynb).
 
 
 ### res50_incepV3_Xcept.ipynb<br>
-ResNet50, inceptionV3 adn Xception as base models with simple fully-connected output layers. Result: scored within top 2% on public LB. (Please notice that file link for dogscats.zip has changed. Try http://files.fast.ai/data/dogscats.zip.)
-
+ResNet50, inceptionV3 adn Xception as base models with simple fully-connected output layers. <br>
+Result: scored within top 2% on public LB. 
 
 
 ### knn_image.ipynb<br>
 Average test image predictions using k-Nearest-neighbors.
-
 
 
 ### opt_experiment.ipynb<br>
